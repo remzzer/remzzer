@@ -5,6 +5,7 @@
 
 * My portfolio
 * Coding my own Smart Contract
+* Building my own NFT collection
 
 ## 🌱  **I'm currently learning**
 
