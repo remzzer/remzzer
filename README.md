@@ -13,7 +13,7 @@
 * Advanced Javascript 
 * React
 * Styled-component
-* Node 
+* Node.js 
 
 ## 💻  **Technical Skills**
 
