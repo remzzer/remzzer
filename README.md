@@ -5,7 +5,7 @@
 
 * My portfolio
 * Coding my own Smart Contract
-* [Building my own NFT collection] (https://www.lunaticmonsters.io/)
+* [Building my own NFT collection](https://www.lunaticmonsters.io/)
 
 ## 🌱  **I'm currently learning**
 
