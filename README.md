@@ -7,6 +7,8 @@
 * Coding my own Smart Contract
 * [Building my own NFT collection](https://www.lunaticmonsters.io/)
 
+You can also catch me on [Codewars](https://www.codewars.com/users/remzzer) where I am currently playing around with JavaScript.
+
 ## 🌱  **I'm currently learning**
 
 * Solidity
