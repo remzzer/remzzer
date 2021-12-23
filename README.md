@@ -15,8 +15,7 @@
 * Styled-component
 * Node.js 
 
-You can also catch me on [Codewars](https://www.codewars.com/users/remzzer) where I am currently playing around with JavaScript.  
-
+You can also catch me on [Codewars](https://www.codewars.com/users/remzzer) where I am currently playing around with JavaScript. 
 
 
 
