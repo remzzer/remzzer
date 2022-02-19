@@ -12,7 +12,8 @@
 * Solidity
 * Advanced Javascript 
 * React
-* Styled-component
+* Hardhat
+* Ethers.js
 * Node.js 
 
 You can also catch me on [Codewars](https://www.codewars.com/users/remzzer) where I am playing around with JavaScript. 
