@@ -1,4 +1,4 @@
-### **Hi there I'm Rémi** 👋
+### **Hi there I'm Rem** 👋
 
 
 ## 🤓  **I'm currently working on**
