@@ -3,7 +3,7 @@
 
 ## 🤓  **I'm currently working on**
 
-* More incoming 
+* My portfolio 
 
 ## 🌱  **I'm currently learning**
 
